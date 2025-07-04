@@ -1,0 +1,10 @@
+@use 'abstracts/fonts';
+@use 'abstracts/mixins';
+@use 'abstracts/variables';
+@use 'base/base.scss';
+@use 'base/reset';
+@use 'base/typography';
+
+html {
+  font-size: 16px; // Basis-Schriftgröße für das gesamte Projekt
+}
