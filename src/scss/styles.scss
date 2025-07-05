@@ -4,6 +4,7 @@
 @use 'base/base.scss';
 @use 'base/reset';
 @use 'base/typography';
+@use 'layout/header';
 
 html {
   font-size: 16px; // Basis-Schriftgröße für das gesamte Projekt
